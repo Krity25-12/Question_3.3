@@ -53,4 +53,4 @@ python3 main.py
 
 ## Description
 CSE103 lab repository — LAB 3.
-Updated README for CSE103 Lab Assignment.
+Updated README of CSE103 Lab Assignment.
